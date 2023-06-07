@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5325dd32875ecd10115042ad0ebb35da" extends="task" label="Tarea" max_length="40" name="x_snc_cs5839310_test" type="collection">
+        <element label="state" max_length="10" name="u_state" type="string"/>
+        <element label="test" max_length="40" name="u_test" type="string"/>
+    </element>
+</database>
